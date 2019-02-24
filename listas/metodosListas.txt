@@ -1,0 +1,13 @@
+Ejercicios
+
+* Agregar un metodo a la clase lista que imprima todos los elementos de la lista.
+* Agregar un metodo a la clase lista que crea una copia de la lista y la regresa.
+* Agregar un metodo a la clase lista que concatena la lista actual con una que recibe.
+* Agregar un metodo a la clase lista que invierte todos los elementos de la lista.
+* Hacer una funcion que reciba una lista de enteros que devuelva el valor del         elemento mayor, si la lista esta vacia manda un error.
+* Hacer una funcion que regrese el producto de todos los elementos de una lista de    	enteros de entrada.
+* Hacer una funcion que regrese verdadero si la lista de entrada contiene el valor de entrada dado (la funcion tiene un parametro) y falso de otra forma. 
+* Hacer una funcion que regrese una lista de enteros con elementos aleatorios, la funcion recibe el tamaño que se desea que tenga la lista.
+
+* Hacer una funcion que parte una lista de entrada en tantas partes semi-equitativas como se especifica en un parametro de entrada.La funcion regresa un arreglo de lstas con el mismo numero de elementos que particiones.
+
